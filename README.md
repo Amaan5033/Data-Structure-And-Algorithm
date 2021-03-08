@@ -17,9 +17,9 @@ P:s
 -Few Examples contain many ways to solve a problems. Some Contains Instructor way and also my way of solving the problem and how to make your solution 
 more optimum by using minimum time and space Complexity.
 
--Also this a dynamic repo things will be getting added to it time to time.Algorithm section is under updatation.
--Upcoming Updates- Algorithm Section - Greedy Algos ; Soon I am gonna add Dynamic programming Section and Machine learning Algothims. 
--Leave your thoughts,comments and problems and also suggestions to improve this repo at 
+-Also this a dynamic repo, things will be getting added to it time to time.Algorithm section is under updatation.
+-Upcoming Updates- Algorithm Section - Greedy Algos ; Soon I am gonna add Dynamic programming Section and Machine learning Algorithms. 
+-Leave your thoughts,comments and problems and also your suggestions to improve this repo at 
 <amaan4743@gmail.com> always happy to hear you :-)
 
 
